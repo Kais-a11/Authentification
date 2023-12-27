@@ -1,0 +1,5 @@
+
+.equal-image {
+    height: 300px; /* Choisissez la hauteur souhaitée */
+    object-fit: cover; /* Pour conserver les proportions de l'image */
+  }
